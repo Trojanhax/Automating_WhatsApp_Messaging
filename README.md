@@ -17,7 +17,7 @@ WhatsApp Bulk SMS Sender is a Python script that automates the process of sendin
 
 1. Clone the repository:
    ```bash
-   $ git clone https://github.com/yourusername/whatsapp-bulk-sms-sender.git
+   $ git clone https://github.com/Trojanhax/Automating_WhatsApp_Messaging.git
    $ cd Automating_WhatsApp_Messaging
    $ pip install -r requirements.txt
    $ python Automating_WhatsApp_Messaging.py
